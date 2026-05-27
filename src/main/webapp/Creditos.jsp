@@ -33,18 +33,16 @@
         <div class="credits-grid">
 
             <div class="credit-card">
-                <div class="initials">JS</div>
-                <h3>Jusiandro Silva</h3>
+                <div class="initials">AJ</div>
+                <h3>Adriano Júnior de Souza Almeida</h3>
                 <p>Desenvolvedor Full Stack</p>
             </div>
-
-            <%-- Exemplo de card adicional — duplique conforme necessário
+            
             <div class="credit-card">
-                <div class="initials">AB</div>
-                <h3>Nome do Integrante</h3>
-                <p>Função / Responsabilidade</p>
+                <div class="initials">AL</div>
+                <h3>Arthur Lanzilotti Farjanes</h3>
+                <p>Desenvolvedor Full Stack</p>
             </div>
-            --%>
 
         </div>
 
